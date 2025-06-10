@@ -58,8 +58,7 @@ export default function Home() {
       title: "Chess Game",
       description: "An interactive chess game built with React and CSS, featuring engaging UI design and game logic.",
       technologies: ["React", "CSS", "JavaScript", "Game Logic"],
-      githubUrl: "https://github.com/ananyapandey9895/Chess_Game",
-      liveUrl: "https://chess-game-delta-ruddy.vercel.app/",
+
     },
   ])
   const [isMenuOpen, setIsMenuOpen] = useState(false)
